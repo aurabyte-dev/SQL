@@ -1,0 +1,15 @@
+customer_id,name,email,region,status
+1001,Alice,a@example.com,EU,active
+1002,Bob,b@example.com,US,active
+1003,Chris,chris@example.com,EU,active
+1005,Evan,evan@example.com,EU,active
+1007,Gina,g@example.com,US,active
+1010,Helena,helena@example.com,EU,active
+1011,Mark,mark@example.com,US,inactive
+1012,Sara,sara@example.com,EU,active
+1020,Jonas,jonas@example.com,EU,inactive
+1021,Mia,mia@example.com,US,active
+1022,Leo,leo@example.com,EU,active
+1030,Stephen,@@@,EU,active       
+1031,Petra,jim@example.com,AS,active      
+1032,Kim,kat@example.com,US,paused      

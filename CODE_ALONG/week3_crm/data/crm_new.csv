@@ -1,0 +1,14 @@
+customer_id,name,email,region,status
+1001,Alice,a@example.com,EU,active
+1002,Bob,b@example.com,US,active
+1003,Chris,chris@example.com,EU,active
+1005,Evan,evan@example.com,EU,active
+1010,Helena,helena@example.com,EU,active
+1011,Mark,mark@example.com,US,inactive
+1012,Sara,sara@example.com,EU,active
+1040,Jenny,jenny@example.com,EU,active
+1041,Omar,omar@example.com,US,inactive
+1042,Ida,ida@example.com,EU,active
+1050,Bill,badmail@com..,EU,active         
+1051,Lisa,lisa@example.com,AU,inactive 
+1052,Fred,rob@example.com,US,blocked   
